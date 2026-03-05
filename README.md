@@ -1,3 +1,5 @@
+![telegram-cloud-photo-size-2-5282957701803612683-y](https://github.com/user-attachments/assets/0bf04d9f-b4dd-4740-8aa4-344c70b7446d)
+
 Install the Quai Network Widget on iPhone (via Scriptable)
 
 1️⃣ Download the Scriptable app from the App Store:  
